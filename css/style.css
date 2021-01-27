@@ -1,0 +1,28 @@
+body {
+    background-color: #333333;
+    text-align: center;
+}
+
+#tela {
+    background-color: #2255AA;
+    border: 1px solid #FFFFFF;
+}
+
+button {
+    background-color: #EE9999;
+    color: white;
+    border: 1px solid red;
+    width: 100px;
+    height: 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #EEBBBB;
+}
+
+button:disabled {
+    background-color: #DDDDDD;
+    cursor: not-allowed;
+}
