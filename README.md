@@ -18,6 +18,11 @@ River Raid foi portado para todos os sistemas presentes na década de 80, como A
 Em 1988, a Activision lançou River Raid II, sequência programa por David Lubar. Com jogabilidade similar, o novo River Raid tinha gráficos melhores, cenários diferentes e dificuldade ainda maior.
 
 # Receptividade e Prêmios
-River Raid foi eleito o melhor jogo do ano por diversas revistas. Em 1983 pela InfoWorld, foi chamado de o “videojogo” mais desafiador.[2] Em 1984, a revista The Desert News pontuou: “O mais jogável e divertido game de guerra”.[3] Neste mesmo ano, o jogo recebeu o prêmio de "melhor game de ação do ano"1984"[4]:42 e um certificado de mérito na categoria "1984 Best Computer Action Game" no 5o Arkie Awards[5]
+River Raid foi eleito o melhor jogo do ano por diversas revistas. Em 1983 pela InfoWorld, foi chamado de o “videojogo” mais desafiador.Em 1984, a revista The Desert News pontuou: “O mais jogável e divertido game de guerra”. Neste mesmo ano, o jogo recebeu o prêmio de "melhor game de ação do ano"1984":42 e um certificado de mérito na categoria "1984 Best Computer Action Game" no 5o Arkie Awards
+
+![000675](https://user-images.githubusercontent.com/12601068/106007710-58bb5e00-6095-11eb-8275-17968163209a.gif)
+
+
+![29122016170610_river-raid](https://user-images.githubusercontent.com/12601068/106007722-5d801200-6095-11eb-8e7c-399db8345c2e.jpg)
 
 
